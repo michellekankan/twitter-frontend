@@ -1,11 +1,11 @@
 # Twitter-frontend
 
-一個仿 twitter 的前端項目,基於 react 實現
+A Twitter-like frontend project, implemented using React.
 
-## 如何啟動
+## How to Start
 
 npm start
 
-## 如何訪問
+## How to Access
 
 http://localhost:3000/
